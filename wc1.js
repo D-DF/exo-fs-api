@@ -24,6 +24,6 @@ if (process.argv.length === 3) {
     console.log(final)
 
 } else {
-    console.log(`Error: node wc.js nom du fichier`)
+    console.log(`Error: node wc1.js nom du fichier`)
     process.exit(1);
 }
